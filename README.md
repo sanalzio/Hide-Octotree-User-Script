@@ -1,7 +1,7 @@
 # Hide Octotree
 It hides the Octotree button.
 
-**! Please move the Octotree button to the top-right corner to use this script.**
+**! Please move the Octotree button to the top-left corner to use this script.**
 
 [
 ![custom badge](https://img.shields.io/badge/Install%20Script-gray.svg?&logo=tampermonkey&logoColor=000)
