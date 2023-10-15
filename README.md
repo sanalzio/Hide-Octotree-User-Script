@@ -1,6 +1,8 @@
 # Hide Octotree
 It hides the Octotree button.
 
+**! Please move the Octotree button to the top-right corner to use this script.**
+
 [
 ![custom badge](https://img.shields.io/badge/Install%20Script-gray.svg?&logo=tampermonkey&logoColor=000)
 ](https://greasyfork.org/tr/scripts/477476-hide-octotree)
